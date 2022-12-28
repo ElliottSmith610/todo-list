@@ -1,0 +1,22 @@
+body {
+    font-size: 1.6rem;
+}
+table {
+    table-layout: fixed;
+}
+.index {
+    width:10%;
+}
+.form {
+    margin-top: 40px;
+}
+.form-control {
+    width: 50%;
+}
+hr {
+    border-top-width: 6px;
+    border-style: dotted;
+    width: 30%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
